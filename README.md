@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm olanike</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/2nedvysA2iis36tX7">
+<img align="right" alt="Coding" width="400" src="https://dxbcode.com/assets/images/index-meta.gif"">
 
 - 🌱 I’m currently learning **bootstrap**
 
