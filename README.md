@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **javascript, react, bootstrap**
 
-- 📫 How to reach me **olanikegloria@gmail.com**
+- 📫 How to reach me **olanikegloria2020@gmail.com**
 
 - ⚡ Fun fact **i think I am funny**
 
