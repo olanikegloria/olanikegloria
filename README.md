@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://dxbcode.com/assets/images/index-meta.gif"">
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **javascript, react, bootstrap**
 
