@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://dxbcode.com/assets/images/index-meta.gif"">
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **javascript, react, bootstrap**
+- 💬 Ask me about **javascript, react, node.js, ruby**
 
 - 📫 How to reach me **olanikegloria2020@gmail.com**
 
